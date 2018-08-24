@@ -1,6 +1,5 @@
-<?php
-
-?>
+<% 
+%>
 <html>
 <body>
     <h1>Hi. Leo.</h1>
